@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Data Science @ University of Trento | ML Intern @ ABB • Previously: Research Intern @ FBK"
+subtitle: "<b>Currently</b>: Data Science @ <a href='https://www.unitn.it/en'>University of Trento</a> | ML Intern @ <a href='https://global.abb/group/en'>ABB text</a> • <b>Previously</b>: Research Intern @ <a href='https://www.fbk.eu/en'>FBK text</a>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>giuliomattolin [at] gmail [dot] com</p>
+    <p style="font-size:50%;">>giuliomattolin [at] gmail [dot] com</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
