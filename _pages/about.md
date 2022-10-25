@@ -22,4 +22,4 @@ I'm currently pursuing a Master's degree in Data Science at the [University of T
 
 In addition, during 2021/2022 I've had the opportunity to work as a Research Intern in the Deep Visual Learning (DVL) research unit of [Fondazione Bruno Kessler](https://www.fbk.eu/en), Italy. During this period, I performed research in the field of domain adaptation to improve the performance of object detection models, and the work I've conducted ended up in a paper being accepted at WACV 2023. If you are interested, you can find the paper [`here`](https://arxiv.org/abs/2210.11539)!
 
-In my spare time, I enjoy playing the guitar, doing sports (such as football, basketball, running, and the list goes on), playing chess and hiking.
+In my spare time, I enjoy playing guitar, doing sports (such as football, basketball, running, and the list goes on), playing chess and hiking.
