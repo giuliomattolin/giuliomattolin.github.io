@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: "<strong>Currently</strong>: Data Science @ <a href='https://www.unitn.it/en'>University of Trento</a> • <strong>Previously</strong>: ML Intern @ <a href='https://global.abb/group/en'>ABB</a> | Research Intern @ <a href='https://www.fbk.eu/en'>FBK</a>"
 
 profile:
