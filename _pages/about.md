@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<strong>Currently</strong>: Data Science @ <a href='https://www.unitn.it/en'>University of Trento</a> • <strong>Previously</strong>: ML Intern @ <a href='https://global.abb/group/en'>ABB</a> | Research Intern @ <a href='https://www.fbk.eu/en'>FBK</a>"
+subtitle: "<strong>Currently</strong>: R&D Engineer @ <a href='https://global.abb/group/en'>ABB</a> • <strong>Previously</strong>: R&D Engineer Intern @ <a href='https://global.abb/group/en'>ABB</a> | Research Intern @ <a href='https://www.fbk.eu/en'>FBK</a>"
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there, I am Giulio! 👋
 
-I'm currently pursuing a Master's degree in Data Science at the [University of Trento](https://www.unitn.it/en), Italy. On top of that, at the moment I'm also working as a Machine Learning Engineer Intern at [ABB](https://global.abb/group/en) in Mannheim, Germany. 
+I'm currently pursuing a Master's degree in Data Science at the [University of Trento](https://www.unitn.it/en), Italy. On top of that, at the moment I'm also working as a R&D Engineer Intern at [ABB](https://global.abb/group/en) in Mannheim, Germany. 
 
 In addition, during 2021/2022 I've had the opportunity to work as a Research Intern in the Deep Visual Learning (DVL) research unit of [Fondazione Bruno Kessler](https://www.fbk.eu/en), Italy. In this period, I conducted research in the field of domain adaptation to improve the performance of object detection models, and the work I've done ended up in a paper being accepted at WACV 2023. If you are interested, you can find the paper [`here`](https://arxiv.org/abs/2210.11539)!
 
